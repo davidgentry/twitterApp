@@ -1,0 +1,15 @@
+{
+  "name": "twitterApp",
+  "version": "1.0.0",
+  "description": "dynamic tweet retrieval",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo"
+  },
+  "author": "dave gentry",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
